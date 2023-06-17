@@ -1,3 +1,5 @@
+package B加密_BCryptUtil;
+
 import org.mindrot.jbcrypt.BCrypt;
 
 /**
